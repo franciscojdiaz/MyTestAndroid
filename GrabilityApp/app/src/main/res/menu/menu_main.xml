@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+
+
+   <!-- <item android:id="@+id/action_nuevo"
+        android:title="nuevo"
+        android:icon="@mipmap/anadir"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom|withText" /> -->
+
+    <item android:id="@+id/MnuOpc1" android:title="Lista De Apps"
+        android:icon="@android:drawable/ic_menu_preferences"></item>
+    <item android:id="@+id/MnuOpc2" android:title="Lista De Categorias"
+        android:icon="@android:drawable/ic_menu_compass"></item>
+
+
+
+</menu>
